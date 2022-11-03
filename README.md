@@ -1,1 +1,2 @@
-![image](https://raw.githubusercontent.com/berylyvos/distributed/master/img/architecture.png)
+# Architecture
+![image](https://github.com/berylyvos/distributed/blob/master/img/architecture.png)
