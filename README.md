@@ -3,7 +3,7 @@
 
 ```mermaid
   flowchart TD
-    Clinet --> 1[Portal Service] --> 2[Log Service] & 3[Business Service]
+    Client --> 1[Portal Service] --> 2[Log Service] & 3[Business Service]
     3 --> 2
     1 <-.-> 4[Registry Service]
     2 <-.-> 4
